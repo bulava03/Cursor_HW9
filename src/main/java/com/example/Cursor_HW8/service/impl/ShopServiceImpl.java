@@ -29,12 +29,7 @@ public class ShopServiceImpl implements ShopService {
         if (!shopRepository.existsById(id)) {
             throw new ShopException("Магазину з id " + id + " не знайдено");
         } else {
-            try {
-                shopRepository.deleteById(id);
-                System.out.println("Магазин з id " + id + " видалено успішно");
-            } catch (Exception ex) {
-                System.out.println("Виникла помилка під час видалення об'єкта");
-            }
+            shopRepository.deleteById(id);
         }
     }
 
