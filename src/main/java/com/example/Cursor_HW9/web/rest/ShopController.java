@@ -1,6 +1,6 @@
 package com.example.Cursor_HW9.web.rest;
 
-import com.example.Cursor_HW9.dto.ShopDTO;
+import com.example.Cursor_HW9.entity.ShopDTO;
 import com.example.Cursor_HW9.entity.Shop;
 import com.example.Cursor_HW9.service.ShopService;
 import com.example.Cursor_HW9.service.exception.ShopException;

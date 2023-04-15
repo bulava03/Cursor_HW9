@@ -1,4 +1,4 @@
-package com.example.Cursor_HW9.dto;
+package com.example.Cursor_HW9.entity;
 
 import com.example.Cursor_HW9.entity.Shop;
 import lombok.AllArgsConstructor;
