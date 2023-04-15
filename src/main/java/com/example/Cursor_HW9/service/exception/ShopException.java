@@ -1,4 +1,4 @@
-package com.example.Cursor_HW8.service.exception;
+package com.example.Cursor_HW9.service.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

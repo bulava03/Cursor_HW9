@@ -1,4 +1,4 @@
-package com.example.Cursor_HW8;
+package com.example.Cursor_HW9;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

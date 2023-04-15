@@ -1,4 +1,4 @@
-package com.example.Cursor_HW8.entity;
+package com.example.Cursor_HW9.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
